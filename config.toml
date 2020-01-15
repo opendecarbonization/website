@@ -1,0 +1,67 @@
+baseURL = "https://opendecarbonization.com/"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+title = "Open Decarbonization"
+theme = "cupper-hugo-theme"
+googleAnalytics = "UA-123456789-1"
+disqusShortname = "opendecarbonization"
+enableGitInfo = true
+
+[taxonomies]
+  tag = "tags"
+  
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      definitionList = true
+      footnote = true
+      linkify = true
+      strikethrough = true
+      table = true
+      taskList = true
+      typographer = true
+    [markup.goldmark.parser]
+      attribute = true
+      autoHeadingID = true
+      autoHeadingIDType = "github"
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = true
+      xHTML = false
+
+[permalinks]
+  post = "/:filename/"
+
+[imaging]
+  quality = 99
+
+[params]
+  description = ""
+  #homeMetaContent = "An accessibility-friendly Hugo theme, ported from the original Cupper project."
+  #footer = "Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [Netlify](https://www.netlify.com/)."
+  # For more date formats see https://gohugo.io/functions/format/
+  dateFormat = "Jan 2, 2006"
+  codePenUser = "someUser"
+  katex = true
+
+[menu]
+  [[menu.nav]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.nav]]
+    name = "News"
+    url = "/news/"
+    weight = 2
+  [[menu.nav]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 3
+ [[menu.nav]]
+    name = "About"
+    url = "/about/"
+    weight = 4
+  [[menu.nav]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 5
