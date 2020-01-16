@@ -11,12 +11,21 @@
     
     
     <item>
+      <title>Your model is here</title>
+      <link>/projects/your-model-is-here/</link>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/your-model-is-here/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Projects</title>
       <link>/projects/</link>
       <pubDate>Wed, 15 Jan 2020 06:39:44 +0100</pubDate>
       
       <guid>/projects/</guid>
-      <description></description>
+      <description>&amp;hellip; list of models with reproducible decarbonization analysis codes &amp;hellip;</description>
     </item>
     
     <item>
@@ -26,6 +35,15 @@
       
       <guid>/contact/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>We are online</title>
+      <link>/news/we-are-online/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/news/we-are-online/</guid>
+      <description>Officially online! More is coming.</description>
     </item>
     
     <item>

@@ -3,7 +3,7 @@ languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Open Decarbonization"
 theme = "cupper-hugo-theme"
-googleAnalytics = "UA-123456789-1"
+googleAnalytics = "UA-156348132-1"
 disqusShortname = "opendecarbonization"
 enableGitInfo = true
 
