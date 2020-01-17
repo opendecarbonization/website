@@ -1,23 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Open Decarbonization</title>
+    <title>Reproducible projects on Open Decarbonization</title>
     <link>/projects/</link>
-    <description>Recent content in Projects on Open Decarbonization</description>
+    <description>Recent content in Reproducible projects on Open Decarbonization</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2020 06:38:40 +0100</lastBuildDate>
     
 	<atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Your model is here</title>
-      <link>/projects/your-model-is-here/</link>
-      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      <title>Evaluation of high-renewable electric power system options with energyRt</title>
+      <link>/projects/evaluation-of-high-renewable-electric-power-system-options/</link>
+      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/projects/your-model-is-here/</guid>
-      <description></description>
+      <guid>/projects/evaluation-of-high-renewable-electric-power-system-options/</guid>
+      <description>Overview tbc&amp;hellip;
+Example(s) of the application &amp;hellip;
+Requirements &amp;hellip;
+Data &amp;hellip;
+Expertise &amp;hellip;
+Software &amp;amp; Hardware &amp;hellip;
+Ongoing applications &amp;hellip;
+Contacts &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>How to add your model/project</title>
+      <link>/projects/how-to-add-your-model-project/</link>
+      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/how-to-add-your-model-project/</guid>
+      <description>Please see About section for the model/project requirements and send requests: opendecarbonization@gmail.com
+   ! UNDER CONSTRUCTION !
+  </description>
     </item>
     
   </channel>
