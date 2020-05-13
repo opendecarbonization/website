@@ -1,0 +1,20 @@
+---
+title: 'Pilot project: revaluation'
+author: ''
+date: '2020-05-12'
+slug: pilot-project-revaluation
+categories: []
+tags: []
+---
+
+# Renewable energy evaluation with energyRt
+
+The project aims to develop a generic capacity expansion model which can be (relatively) easily applied to any territory (country/region) to evaluate intermittent renewable energy potential and electric power system design with a high to 100% share of renewables. The initial "kickstarting" model will not consider any existing generating capacity, evaluating the potential of renewables, based on 40-years of hourly meteorological data from NASA's MERRA-2 project. As the result, the project will assemble, adopt, or develop:
+
+(see details: https://github.com/opendecarbonization/revaluation)
+
+# The pilot project timeline
+The pilot project is a short-term project, starting now in May 2020 and is expected to conclude at the end of Summer 2020, delivering the generic kick-start model, open models for the participating countries, and the set of unified scenarios. The project will include up to 7 countries/regions.
+
+# <span style="color:red"> *Call for collaboration* </span>
+The project can provide support in developing the model for up to two additional teams. Researchers/modelers who are interested in developing/applying the model for a particular country or region, please contact: opendecarbonization@gmail.com, olugovoy@edf.org.
